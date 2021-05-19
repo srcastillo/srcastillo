@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srcastillo
+- 👋 Hi, I’m Santiago Restrepo-Castillo (@srcastillo), Ph.D. candidate at Mayo Clinic
 - 👀 I’m interested in mitochondrial genome engineering, and gene therapy
 - 🌱 I’m currently learning about mitochondrial biology, and virology
 - 💞️ I’m looking to collaborate on projects with a bioinformatic arm
