@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Santiago R. Castillo (@srcastillo), Ph.D. candidate at Mayo Clinic
-- 👀 I’m interested in mitochondrial genome engineering, and gene therapy
-- 🌱 I’m currently learning about mitochondrial biology, and virology
-- 💞️ I’m looking to collaborate on projects with a bioinformatics arm
-- 📫 Shoot me an email! RestrepoCastillo.Santiago@mayo.edu
+- Santiago R. Castillo, Ph.D. 
+- Ph.D. in Biomedical Sciences with a concentration in Virology and Gene Therapy from Mayo Clinic (US) | Developed unconstrained mitochondrial base editors.
+- B.Sc. in Biomedical Engineering from EIA University (CO) | Developed a biophysical model to estimate the natural frequencies of small biomolecules.
+- Currently postdoc in Translational Neuroscience at the Children's Hospital of Philadelphia (US).
+- Shoot me an email! santiagorestrepocastillo@outlook.com
 
 <!---
 srcastillo/srcastillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
